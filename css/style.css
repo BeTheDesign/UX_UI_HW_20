@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.img-fluid{
+    var(--bs-gradient);
+}
+
+.display-4{
+    margin: 32px 0px;
+}
+
+.lead{
+    margin: 8px 0px;
+}
+
+.image-container{
+    display: flex;
+    justify-content: center;
+}
+.card-text{
+    float: left;
+    display: inline;
+    color: black;
+}
+.card{
+    padding-right: 50px;
+
+}
+.card-title{
+    color: black;
+}
+.rounded1{
+    width: 1000px;
+    height: 610px;
+    display: center;
+    padding-left: 300px;
+}
+.btnbtn-info{
+    padding-top: 60px;
+}

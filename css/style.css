@@ -37,12 +37,13 @@ body{
 }
 .rounded1{
     width: 1000px;
-    height: 610px;
+    height: 710px;
     display: center;
     padding-left: 300px;
-}
-.btnbtn-info{
     padding-top: 60px;
+}
+.btn-info{
+    
 }
 
 .myquote {
@@ -53,7 +54,6 @@ body{
     text-align: center;
     font-style: normal;
     margin-right: auto;
-    padding-block-start: none;
     margin-bottom: none;}
 .copyright {
     
@@ -66,7 +66,7 @@ body{
     align-content: center;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
-    padding-bottom: 100px;
+    padding-bottom: 300px;
     margin-bottom: 100px;
 }
 .container-lg{
@@ -83,4 +83,8 @@ body{
 .card-img-top{
     width:100%;
     height: 200px;
+}
+.text-center{
+    padding-top: 40px;
+    text: center;
 }

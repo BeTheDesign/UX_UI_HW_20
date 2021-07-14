@@ -13,8 +13,8 @@ body{
 
 .lead{
     margin: 8px 0px;
+    
 }
-
 .image-container{
     display: flex;
     justify-content: center;
@@ -46,19 +46,24 @@ body{
     
 }
 
+.main-footer{
+    margin: 20px;
+}
+
 .myquote {
-    position: absolute;
-    display: inline-block;
+    /* position: absolute; */
+    /* display: inline-block; */
     align-items: center;
     font-family: 'Roboto', sans-serif;
     text-align: center;
     font-style: normal;
-    margin-right: auto;
-    margin-bottom: none;}
+    /* margin-right: auto; */
+    margin-bottom: none;
+}
 .copyright {
     
     color: white;
-    position: absolute;
+    /* position: absolute; */
     margin-left: auto;
     margin-right: center;
     align-items: center;
@@ -66,8 +71,7 @@ body{
     align-content: center;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
-    padding-bottom: 300px;
-    margin-bottom: 100px;
+    /* padding-bottom: 300px; */
 }
 .container-lg{
     background-color: black;
@@ -85,6 +89,10 @@ body{
     height: 200px;
 }
 .text-center{
-    padding-top: 40px;
+    padding-top: 70px;
     text: center;
+}
+
+.proto{
+    padding-top: 0px;
 }
